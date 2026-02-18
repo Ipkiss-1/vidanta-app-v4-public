@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Hotel VIDANTA Statement Analyzer AI",
+  "description": "An intelligent dashboard to analyze hotel PDF statements, clean transaction data, and categorize expenses using Gemini 3.",
+  "requestFramePermissions": []
+}
