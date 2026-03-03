@@ -58,6 +58,7 @@ const App: React.FC = () => {
               </span>
             </div>
             <LanguageCurrencyToggle 
+              src="/vidanta-logo.png"
               language={language} 
               setLanguage={setLanguage}
               currency={currency}
